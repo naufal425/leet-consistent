@@ -1,2 +1,64 @@
 # leet-consistent
 must be every day
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Single Page CV</title>
+</head>
+<style type="text/css">
+    .paragraf1{
+        color: green;
+    }
+</style>
+<style type="text/css">
+    .paragraf2{
+        color: blue;
+    }
+</style>
+<style class="container">
+    .container{
+        width: 500px;
+        border: 2px solid black;
+        padding: 20px;
+        margin: auto;
+    }
+</style>
+<body>
+    <div class="container">
+    <p align="left">
+        ____________________________________________________
+    </p>
+    <h2>Naufal Fadillah</h2>
+    <h4 class="paragraf1">Junior Frontend Develover</h4>
+    <p>
+        0306 St. Situ Sipatahunan <br>
+        Bandung Baleendah 40375 <br>
+        +62 823 2142 8943 <br>
+        jobnaufal@gmail.com <br>
+    </p>
+    <h4 class="paragraf1">Skills</h4>
+    <p>
+        HTML, CSS, Javascript, Accessibility, Figma to Design, <br> Responsive Web Design, Technical Meeting, Presentation
+    </p>
+    <h4 class="paragraf1">Education</h4>
+    <h3 class="paragraf2">High School 9 Garut - Jawa Barat</h3>
+    <p>
+        June 2017 to June 2020 <br>
+        Class Champion every year and became the overall champion <br>
+        <h4 class="paragraf1">Experience</h4>
+        <h3 class="paragraf2">Toher Grup Manajemen</h3>
+        <p>July 2020 to June 2026 - Estimator Engineer</p>
+        <ul>
+            <li>Estimator Engineer of St. Sei Ladi Batam</li>
+            <li>Estimator Engineer of St. Kab. Sumedang</li>
+            <li>Occupational health and safety experts</li>
+            <li>Estimator Engineer of St. Depok City</li>
+        </ul>
+    </p>
+    <h4 class="paragraf1">Across the Internet</h4>
+    <p>myLinkedIn & Github Profiles</p>
+    </div>
+</body>
+</html>
