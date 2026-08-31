@@ -1,3 +1,3 @@
 # leet-consistent
 must be every day
-https://github.com/leet-consistent/2.1.%20Latihan_CV.html
+[https://github.com/naufal425/leet-consistent/blob/main/2.1.%20Latihan_CV.html]
